@@ -6,4 +6,4 @@ Es un cotizador de planes de seguros para automoviles donde el usuario puede sel
 
 ![Imagen que muestra la ui del proyecto](./public/cotizador.png "imagen del proyecto")
 
-Enlace hacia el deploy:
+Enlace hacia el deploy: https://cotizador-react-eight.vercel.app/
